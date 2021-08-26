@@ -14,10 +14,10 @@ I am a machine learning and full stack development enthusiast. I enjoy exploring
 :heavy_check_mark: OOAD/C++
 :heavy_check_mark: Pandoc/Latex, Git
 
-
-
 ## :large_blue_circle: Recent Project(s)
-My recent project is *Kelasa* -- a no-frills task tracker for the desktop that runs off a browser as a single page application.    
+- *Churn Prediction* using Keras/ANN with Flask for deployment.
+
+- *Kelasa* -- a no-frills task tracker for the desktop that runs off a browser as a single page application.
 
 ## :large_blue_circle: More Projects
 :small_blue_diamond: *DS_AutoMPG* is an analysis of the well known AutoMPG dataset using the low code platform Orange3.
