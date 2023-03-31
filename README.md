@@ -7,20 +7,21 @@ Hi, welcome to my Github page.
 
 I enjoy exploring my areas of interest doing projects that both teach me new skills and are useful, too.
 
-## :ballot_box_with_check: Skills
+## :large_blue_diamond: Skills
 
-:heavy_check_mark: Linux with Open Source tools    
-:heavy_check_mark: Data Science incl. EDA, Feature Engineering/Selection    
-:heavy_check_mark: Machine Learning algorithms    
-:heavy_check_mark: Deep Learning incl. ANN, RNN, CNN applications    
-:heavy_check_mark: Python with sklearn, numpy, pandas, keras    
-:heavy_check_mark: OOAD/Python   
-:heavy_check_mark: Pandoc/Latex, Git, Github   
+:white_check_mark: Linux with Open Source tools    
+:white_check_mark: Python with OOAD, sklearn, numpy, pandas, plotting    
+:white_check_mark: Data Science/ML: EDA, Feature Engineering/Selection, Modelling/Evaluation    
+:white_check_mark: Deep Learning -- ANN applications, libraries - keras    
+:white_check_mark: Pandoc/Latex, Git, Github, [technical blogging](https://progmatix21.github.io) 
 
-## :large_blue_circle: Recent Projects
+## :large_blue_circle: Notable Projects
+
+:small_blue_diamond: *ML from Scratch* an attempt to implement ML algorithms from scratch.  
+:small_blue_diamond: *Algorithms Cutaway* an animated cutaway of searching and sorting algorithms.    
+:small_blue_diamond: *Health-pred* to predict diabetic and cardiovascular conditions based on ML models with Flask deployment.    
 :small_blue_diamond: *Churn Prediction* using Keras/ANN with Flask for deployment.    
-:small_blue_diamond: *Kelasa* -- a no-frills task tracker for the desktop that runs off a browser as a single page application.
+:small_blue_diamond: *Kelasa* -- a no-frills task tracker for the desktop that runs off a browser as a single page application.   
+:small_blue_diamond: Various [Kaggle](https://kaggle.com/atrijtalgery) notebooks.
 
-## :large_blue_circle: More Projects
-:small_blue_diamond: *DS_AutoMPG* is an analysis of the well known AutoMPG dataset using the low code platform Orange3.    
-:small_blue_diamond: *DS_classifier_comparo_gh* is a comparison of three classifiers: Logistic Regression, Naive Bayes and kNN.   
+
