@@ -1,11 +1,11 @@
 # Atrij Talgery
 
 :black_medium_small_square: **Computer Science professional**       
-:black_medium_small_square: **Data Science/Machine Learning practitioner**
+:black_medium_small_square: **Data Science/Machine Learning practitioner**  
 ---------------
 Hi, welcome to my Github page. 
 
-I enjoy exploring my areas of interest doing projects that both teach me new skills and are useful, too.
+I enjoy exploring my areas of interest doing projects that both teach me new skills and are useful, too.  
 
 ## :large_blue_diamond: Skills
 
@@ -18,7 +18,7 @@ I enjoy exploring my areas of interest doing projects that both teach me new ski
 
 ## :large_blue_circle: Notable Projects
 
-:small_blue_diamond: *ML from Scratch* an attempt to implement ML algorithms from scratch.  
+:small_blue_diamond: *ML from Scratch* an attempt to implement ML algorithms from scratch.   
 :small_blue_diamond: *Algorithms Cutaway* an animated cutaway of searching and sorting algorithms.    
 :small_blue_diamond: *Health-pred* ML-based prediction of diabetic and cardiovascular conditions with Flask deployment.    
 :small_blue_diamond: *Churn Prediction* using Keras/ANN with Flask deployment.    
