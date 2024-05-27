@@ -18,6 +18,7 @@ I enjoy exploring my areas of interest doing projects that both teach me new ski
 
 ## :large_blue_circle: Notable Projects
 
+:small_blue_diamond: *Briefly* an extractive multilingual text summarizer.
 :small_blue_diamond: *ML from Scratch* an attempt to implement ML algorithms from scratch.   
 :small_blue_diamond: *Algorithms Cutaway* an animated cutaway of searching and sorting algorithms.    
 :small_blue_diamond: *Health-pred* ML-based prediction of diabetic and cardiovascular conditions with Flask deployment.    
