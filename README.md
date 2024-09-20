@@ -15,7 +15,7 @@ I enjoy exploring my areas of interest doing projects that both teach me new ski
 :white_check_mark: Deep Learning: ANN/CNN/LSTM applications, Time Series   
 :white_check_mark: Deep Learning: NLP(Classification, Sentiment Analysis, Topic Modelling, Summarization, Chatbots)    
 :white_check_mark: Data Science/ML/DL libraries: sklearn, keras, spacy, numpy, pandas, plotting   
-:white_check_mark: Pandoc/Latex, Git, Github, [technical blogging](https://progmatix21.github.io) with videos and podcasts   
+:white_check_mark: Pandoc/Latex, Git, Github, Docker, [technical blogging](https://progmatix21.github.io) with videos and podcasts   
 
 ## :large_blue_circle: Products
 
